@@ -1,3 +1,5 @@
+'use client'
+
 import Profile from '@components/Profile'
 import { useSearchParams } from '@node_modules/next/navigation'
 import React, { useEffect } from 'react'
